@@ -1,0 +1,7 @@
+# Ignore node_modules for backend
+/backend/node_modules/
+/backend/package-lock.json
+
+# Ignore node_modules for frontend
+/frontend/node_modules/
+/frontend/package-lock.json
